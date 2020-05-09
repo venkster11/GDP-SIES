@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/yourchannel_options"
+        android:title="Your Channel"
+       />
+
+    <item
+        android:id="@+id/youtubestudios_options"
+        android:title="YouTube Studios"
+        />
+
+    <item
+        android:id="@+id/settings_options"
+        android:title="Settings"
+        />
+
+</menu>
